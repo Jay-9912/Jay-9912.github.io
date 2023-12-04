@@ -26,7 +26,7 @@ My research interest includes machine learning and quantum computing. For more i
 
 # 🔥 News
 - *2023.09*: &nbsp;🎉🎉 I was invited as a reviewer for ICLR 2024. 
-- *2023.05*: &nbsp;🎉🎉 I was invited as a reviewer for Neurips 2023.
+- *2023.05*: &nbsp;🎉🎉 I was invited as a reviewer for NeurIPS 2023.
 - *2023.04*: &nbsp;🎉🎉 Our <a href='https://proceedings.mlr.press/v202/wu23v/wu23v.pdf'>QuantumDARTS</a> and <a href='https://proceedings.mlr.press/v202/lu23f/lu23f.pdf'>QAS-Bench</a> are accepted by ICML 2023.
 
 # 📝 Publications 
