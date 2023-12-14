@@ -54,7 +54,7 @@ Xudong Lu, Kaisen Pan, Ge Yan, Jiaming Shan, **Wenjie Wu**, Junchi Yan
 </div>
 
 - ``In submission`` "On Reducing the Execution Latency of Superconducting Quantum Processors via Quantum Program Scheduling", **Wenjie Wu**, Yiquan Wang, Ge Yan, Yuming Zhao, and Junchi Yan
-- ``In submission`` "Machine Learning for Multi-Dimensional Bin Packing Problem: A Survey", **Wenjie Wu**, and Junchi Yan
+- ``In submission`` ["Machine Learning for the Multi-Dimensional Bin Packing Problem: Literature Review and Empirical Evaluation"](http://arxiv.org/abs/2312.08103), **Wenjie Wu**, Changjun Fan, Jincai Huang, Zhong Liu, and Junchi Yan
 
 # 🎖 Honors and Awards
 - *2023* Grand Prize in Quantum Computing Track of ”Challenge Cup” National Contest (Top 5).
