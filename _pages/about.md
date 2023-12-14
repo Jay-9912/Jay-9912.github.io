@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second-year graduate student at <a href='https://thinklab.sjtu.edu.cn/'>ReThinkLab</a>@SJTU, advised by Prof. <a href='https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=zh-CN&oi=ao'>Junchi Yan</a>. I received my bachelor's degree with honor from Automation (Direction of Artificial Intelligence), Shanghai Jiao Tong University in 2022. 
 
-I won the National Scholarship for Undergraduate Students in 2023, and the National Scholarship for Graduate Students in 2021.
+I won the National Scholarship for Graduate Students in 2023, and the National Scholarship for Undergraduate Students in 2021.
 
 My research interest includes machine learning and quantum computing. For more information about me, you can view my [CV](../cv/cv.pdf).
 
