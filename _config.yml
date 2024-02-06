@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wenjie Wu (吴文杰)"
+title                    : "Wenjie Wu"
 description              : "Second-year graduate student majoring in Control Science and Technology, Shanghai Jiao Tong University"
 repository               : "Jay-9912/Jay-9912.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wenjie Wu (吴文杰)"
+  name             : "Wenjie Wu 吴文杰"
   avatar           : "images/profile.jpg"
   bio              : "Shanghai Jiao Tong University (SJTU)"
   location         : "Shanghai, China"
