@@ -25,11 +25,23 @@ My research interest includes machine learning and quantum computing. For more i
 
 
 # 🔥 News
+- *2024.06*: &nbsp;🎉🎉 Our <a href='https://arxiv.org/abs/2404.07882'>NAQJS</a> is accepted by ICCAD 2024.
 - *2023.09*: &nbsp;🎉🎉 I was invited as a reviewer for ICLR 2024. 
 - *2023.05*: &nbsp;🎉🎉 I was invited as a reviewer for NeurIPS 2023.
 - *2023.04*: &nbsp;🎉🎉 Our <a href='https://proceedings.mlr.press/v202/wu23v/wu23v.pdf'>QuantumDARTS</a> and <a href='https://proceedings.mlr.press/v202/lu23f/lu23f.pdf'>QAS-Bench</a> are accepted by ICML 2023.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/naqjs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[On Reducing the Execution Latency of Superconducting Quantum Processors via Quantum Job Scheduling](https://arxiv.org/abs/2404.07882)
+
+ **Wenjie Wu**, Yiquan Wang, Ge Yan, Yuming Zhao, Bo Zhang, and Junchi Yan
+
+- A noise-aware quantum job scheduler to reduce the execution latency of superconducting quantum processors.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/quantumdarts.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,8 +65,8 @@ Xudong Lu, Kaisen Pan, Ge Yan, Jiaming Shan, **Wenjie Wu**, Junchi Yan
 </div>
 </div>
 
-- ``In submission`` "On Reducing the Execution Latency of Superconducting Quantum Processors via Quantum Program Scheduling", **Wenjie Wu**, Yiquan Wang, Ge Yan, Yuming Zhao, and Junchi Yan
-- ``In submission`` ["Machine Learning for the Multi-Dimensional Bin Packing Problem: Literature Review and Empirical Evaluation"](http://arxiv.org/abs/2312.08103), **Wenjie Wu**, Changjun Fan, Jincai Huang, Zhong Liu, and Junchi Yan
+- ``In submission`` ["DocGenome: An Open Large-scale Scientific Document Benchmark for Training and Testing Multi-modal Large Language Models"](https://arxiv.org/abs/2406.11633), Renqiu Xia, ..., **Wenjie Wu**, et al.
+- ``Arxiv`` ["Machine Learning for the Multi-Dimensional Bin Packing Problem: Literature Review and Empirical Evaluation"](http://arxiv.org/abs/2312.08103), **Wenjie Wu**, Changjun Fan, Jincai Huang, Zhong Liu, and Junchi Yan
 
 # 🎖 Honors and Awards
 - *2023* Grand Prize in Quantum Computing Track of ”Challenge Cup” National Contest (Top 5).
@@ -72,6 +84,8 @@ Xudong Lu, Kaisen Pan, Ge Yan, Jiaming Shan, **Wenjie Wu**, Junchi Yan
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2024.06 - Present*, [ByteDance](https://www.bytedance.com/zh/), China.
+- *2024.03 - 2024.06*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
 - *2021.11 - 2022.02*, [XYZ Robotics](https://www.xyzrobotics.com/), China.
 - *2021.07*, [Hikvision](https://www.hikvision.com/en/), China.
 
