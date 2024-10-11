@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year graduate student at <a href='https://thinklab.sjtu.edu.cn/'>ReThinkLab</a>@SJTU, advised by Prof. <a href='https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=zh-CN&oi=ao'>Junchi Yan</a>. I received my bachelor's degree with honor from Automation (Direction of Artificial Intelligence), Shanghai Jiao Tong University in 2022. 
+I am a third-year graduate student at <a href='https://thinklab.sjtu.edu.cn/'>ReThinkLab</a>@SJTU, advised by Prof. <a href='https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=zh-CN&oi=ao'>Junchi Yan</a>. I received my bachelor's degree with honor from Automation (Direction of Artificial Intelligence), Shanghai Jiao Tong University in 2022. 
 
-I won the National Scholarship for Graduate Students in 2023, and the National Scholarship for Undergraduate Students in 2021.
+I won the National Scholarship for Graduate Students in 2023 and 2024, and the National Scholarship for Undergraduate Students in 2021.
 
 My research interest includes machine learning and quantum computing. For more information about me, you can view my [CV](../cv/cv.pdf).
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 I was invited as a reviewer for ICLR 2025. 
 - *2024.06*: &nbsp;🎉🎉 Our <a href='https://arxiv.org/abs/2404.07882'>NAQJS</a> is accepted by ICCAD 2024.
 - *2023.09*: &nbsp;🎉🎉 I was invited as a reviewer for ICLR 2024. 
 - *2023.05*: &nbsp;🎉🎉 I was invited as a reviewer for NeurIPS 2023.
@@ -71,6 +72,7 @@ Xudong Lu, Kaisen Pan, Ge Yan, Jiaming Shan, **Wenjie Wu**, Junchi Yan
 # 🎖 Honors and Awards
 - *2023* Grand Prize in Quantum Computing Track of ”Challenge Cup” National Contest (Top 5).
 - *2023* First Prize in CCF ”Sinan Cup” Quantum Computing Contest.
+- *2023 - 2024* National Scholarship for Graduate Students (Top 1%).
 - *2022 - 2023* National Scholarship for Graduate Students (Top 1%).
 - *2022* Outstanding Graduates of Shanghai Jiao Tong University.
 - *2020 - 2021* National Scholarship for Undergraduate Students (Top 1%).
@@ -84,7 +86,7 @@ Xudong Lu, Kaisen Pan, Ge Yan, Jiaming Shan, **Wenjie Wu**, Junchi Yan
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.06 - Present*, [ByteDance](https://www.bytedance.com/zh/), China.
+- *2024.06 - 2024.10*, [ByteDance](https://www.bytedance.com/zh/), China.
 - *2024.03 - 2024.06*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
 - *2021.11 - 2022.02*, [XYZ Robotics](https://www.xyzrobotics.com/), China.
 - *2021.07*, [Hikvision](https://www.hikvision.com/en/), China.
